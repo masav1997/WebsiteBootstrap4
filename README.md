@@ -1,18 +1,18 @@
-# Сайт для doctor-notebookov-krasnodar.ru
+# Website (Bootstrap4)
 
-Сайт был создан для компании "Доктор Ноутбуков"
+The site was created for the service company.
 
-## Описание сайта
+## Description of the site
 
-Сайт разработан на Bootstrap 4.  
+The site was developed on Bootstrap 4.
 
-### Установка
+### Installation
 
-Чтобы посмотреть проект достаточно лишь:
-1. Скачать репозиторий на компьютер;
-2. Распаковать папку с проектом;
-3. Открыть файл **index.html** в любом браузере.
+To see the project it is enough only:
+1. Download the repository to the computer;
+2. Unzip the folder with the project;
+3. Open the ** index.html ** file in any browser.
 
-## Автор работы
+## Author of the work
 
-* **Маслова Анна** - [masav1997](https://github.com/masav1997)
+* ** Maslova Anna ** - <https://ylink.me/masav1997>
