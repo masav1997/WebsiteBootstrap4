@@ -4,7 +4,7 @@ The site was created for the service company.
 
 ## Description of the site
 
-<img src="https://ibb.co/7nh8Nvy">
+<img src="https://i.ibb.co/H70QZq9/2020-02-20-00-12-36.png">
 
 <img src="https://i.ibb.co/KGHx7ZT/2020-02-20-00-12-54.png">
 
