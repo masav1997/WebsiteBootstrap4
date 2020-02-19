@@ -4,6 +4,12 @@ The site was created for the service company.
 
 ## Description of the site
 
+<img src="https://i.ibb.co/8rkT4M8/2020-02-20-00-12-36.png">
+
+<img src="https://i.ibb.co/KGHx7ZT/2020-02-20-00-12-54.png">
+
+<img src="https://i.ibb.co/Yt6nzNV/2020-02-20-00-13-07.png">
+
 The site was developed on Bootstrap 4.
 
 ### Installation
